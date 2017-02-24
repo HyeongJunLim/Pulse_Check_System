@@ -1,0 +1,4 @@
+Client IP = 127.0.0.1 
+
+Count 	 Pulse 		 Max_Pulse 	 Min_Pulse 	 Average_Pulse 
+1 	 59 		 59 		 59 		 59.00 
